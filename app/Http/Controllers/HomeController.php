@@ -37,4 +37,9 @@ class HomeController extends Controller
         $categoryMenu = Category::orderBy('category_name','asc')->get();
         return view('contact', compact('categoryMenu'));
     }
+
+    public function about(){
+        
+        return view('about');
+    }
 }

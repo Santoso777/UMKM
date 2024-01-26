@@ -234,7 +234,7 @@
                                 <li><a href="http://www.twitter.com/"><i class="fa fa-twitter"
                                             aria-hidden="true"></i></a>
                                 </li>
-                                <li><a href="http://www.instagram.com/nanang_stywn"><i class="fa fa-instagram"
+                                <li><a href="http://www.instagram.com/maswira"><i class="fa fa-instagram"
                                             aria-hidden="true"></i></a></li>
                                 <li><a href="http://www.github.com/nang_stywn"><i class="fa fa-github"
                                             aria-hidden="true"></i></a></li>

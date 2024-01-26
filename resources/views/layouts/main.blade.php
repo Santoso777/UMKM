@@ -50,7 +50,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6">
-                            <div class="top_nav_left">UMKM Indonesia</div>
+                            <div class="top_nav_left">UMKM JOGJA</div>
                         </div>
                         <div class="col-md-6 text-right">
                             <div class="top_nav_right">
@@ -137,7 +137,9 @@
                                             @endforeach
                                         </div>
                                     </li>
+                                    
                                     <li><a href="{{ route('contact') }}">CONTACT</a></li>
+                                    <li><a href="{{ route('about') }}">ABOUT</a></li>
                                 </ul>
                                 <div class="hamburger_container">
                                     <i class="fa fa-bars" aria-hidden="true"></i>
@@ -227,14 +229,14 @@
                         <div
                             class="footer_social d-flex flex-row align-items-center justify-content-lg-end justify-content-center">
                             <ul>
-                                <li><a href="https://www.facebook.com/nng96/"><i class="fa fa-facebook"
+                                <li><a href="https://www.facebook.com/maswira/"><i class="fa fa-facebook"
                                             aria-hidden="true"></i></a>
                                 </li>
                                 <li><a href="https://twitter.com/"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                                 </li>
-                                <li><a href="https://www.instagram.com/nanang_stywn"><i class="fa fa-instagram"
+                                <li><a href="https://www.instagram.com/maswira"><i class="fa fa-instagram"
                                             aria-hidden="true"></i></a></li>
-                                <li><a href="http://www.github.com/NangStywn"><i class="fa fa-github"
+                                <li><a href="http://www.github.com/"><i class="fa fa-github"
                                             aria-hidden="true"></i></a>
                                 </li>
                                 <li><a href="http://www.gitlab.com/"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
@@ -246,9 +248,9 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="footer_nav_container">
-                            <div class="cr">©2021 All Rights Reserved. Made with <i class="fa fa-heart-o"
+                            <div class="cr">©2023 All Rights Reserved. Made with <i class="fa fa-heart-o"
                                     aria-hidden="true"></i>
-                                by <a href="#">Nanang Setyawan</a></div>
+                                by <a href="#">maswirajogja</a></div>
                         </div>
                     </div>
                 </div>

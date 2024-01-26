@@ -228,13 +228,13 @@
                         <div
                             class="footer_social d-flex flex-row align-items-center justify-content-lg-end justify-content-center">
                             <ul>
-                                <li><a href="https://www.facebook.com/jogjamediaweb/"><i class="fa fa-facebook"
+                                <li><a href="https://www.facebook.com/maswirajogja/"><i class="fa fa-facebook"
                                             aria-hidden="true"></i></a>
                                 </li>
-                                <li><a href="https://twitter.com/jogjamediaweb"><i class="fa fa-twitter"
+                                <li><a href="https://twitter.com/maswirajogja"><i class="fa fa-twitter"
                                             aria-hidden="true"></i></a>
                                 </li>
-                                <li><a href="https://www.instagram.com/jogjamediaweb/?hl=id"><i class="fa fa-instagram"
+                                <li><a href="https://www.instagram.com/maswirajogja/?hl=id"><i class="fa fa-instagram"
                                             aria-hidden="true"></i></a></li>
                                 <li><a href="http://www.github.com"><i class="fa fa-github" aria-hidden="true"></i></a>
                                 </li>
@@ -249,7 +249,7 @@
                         <div class="footer_nav_container">
                             <div class="cr">©2021 All Rights Reserved. Made with <i class="fa fa-heart-o"
                                     aria-hidden="true"></i>
-                                by <a href="#">Nanang Setyawan</a></div>
+                                by <a href="#">maswirajogja</a></div>
                         </div>
                     </div>
                 </div>

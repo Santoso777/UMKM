@@ -44,7 +44,7 @@
                 <p>Ada banyak cara untuk menghubungi kami. Anda dapat menelepon kami atau mengirim email, pilih yang paling cocok untuk Anda..</p>
                 <div>
                     <p>No. Hp : 085 327 5555 46</p>
-                    <p>Email :  jogjamediaweb.com@gmail.com</p>
+                    <p>Email :  maswira@gmail.com</p>
                 </div>
             </div>
 
@@ -58,13 +58,13 @@
             <div class="get_in_touch_contents">
                 <h1>Follow Us</h1>
                 <ul class="social d-flex flex-row">
-                    <li><a href="https://www.facebook.com/jogjamediaweb/" style="background-color: #3a61c9"><i class="fa fa-facebook"
+                    <li><a href="https://www.facebook.com/maswirajogja/" style="background-color: #3a61c9"><i class="fa fa-facebook"
                                 aria-hidden="true"></i></a></li>
-                    <li><a href="https://twitter.com/jogjamediaweb" style="background-color: #41a1f6"><i class="fa fa-twitter"
+                    <li><a href="https://twitter.com/maswirajogja" style="background-color: #41a1f6"><i class="fa fa-twitter"
                                 aria-hidden="true"></i></a></li>
                     <li><a href="#" style="background-color: #fb4343"><i class="fa fa-google-plus"
                                 aria-hidden="true"></i></a></li>
-                    <li><a href="https://www.instagram.com/jogjamediaweb/?hl=id" style="background-color: #8f6247"><i class="fa fa-instagram"
+                    <li><a href="https://www.instagram.com/maswirajogja/?hl=id" style="background-color: #8f6247"><i class="fa fa-instagram"
                                 aria-hidden="true"></i></a></li>
                 </ul>
             </div>

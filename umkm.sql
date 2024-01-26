@@ -257,7 +257,7 @@ INSERT INTO `users` (`id`, `name`, `surname`, `email`, `password`, `remember_tok
 (1, 'Admin', 'admin', 'admin@gmail.com', '$2y$10$r18pOsSe1Q35ro1CMNAkOO5DqXg7QKq95vsn/uhhTgD6InPPspf0e', 'DmDTmQJ0TqNvu2EbhMgupGZmddosjw8idwhOw6B05zgeD8pVn6yiPyEWv4kr', '2021-04-02 02:21:13', '2021-04-02 02:21:13'),
 (2, 'User', 'user', 'user@gmail.com', '$2y$10$2dpbf/E44IRsdKllM.IzTOwjEnzDbH.zfXNZgQ19.vwSncGXp6Yr2', 'pI8bkpZ7WFq3AMkx89KHzjsNwbRgPnJmdxrmehGiXpNu8RUxFKTclPYi4pri', '2021-04-02 02:21:13', '2021-04-02 02:21:13'),
 (3, 'budi', 'budi', 'budi@jmw.asia', '$2y$10$wDgyh9R/GVvr/rtyNwqJcepq0Kud6iLWMdb.KCYQUU4sQNAtVCc8u', 'rJoBJjckL4IdiOhgHpd7oIdg1TcjA6Ho9OvRKNkMDPDJcwfXLRAt2uCSTJFz', '2021-04-05 07:07:45', '2021-04-05 07:07:45'),
-(4, 'Nanang Setyawan', 'nanang', 'nanang@gmail.com', '$2y$10$9vyEV2Kq5tBXSfjeUVYJS.iUQjxk3p4pAH7LHo7dgm8ZKIq/w4uf2', 'piwbic31TBlDgNFJ1RWP6bdjsPkYVly4Q9AsEMuOv2l8VlVU0cB9tTYkBdQy', '2021-04-09 03:20:54', '2021-04-09 03:20:54'),
+(4, 'maswirajogja', 'nanang', 'nanang@gmail.com', '$2y$10$9vyEV2Kq5tBXSfjeUVYJS.iUQjxk3p4pAH7LHo7dgm8ZKIq/w4uf2', 'piwbic31TBlDgNFJ1RWP6bdjsPkYVly4Q9AsEMuOv2l8VlVU0cB9tTYkBdQy', '2021-04-09 03:20:54', '2021-04-09 03:20:54'),
 (5, 'Nabila Abdullah Nabila Abdullah', 'Nabila Abdullah', 'Team.jmw11@gmail.com', '$2y$10$mFpBc6YXJjQMRRd0DCgiTelLYEvK8M3G0roRSn8LFeb48S1/uB60C', NULL, '2021-04-23 02:25:25', '2021-04-23 02:25:25'),
 (6, 'Falcon', 'Falcon', 'falcon@gmail.com', '$2y$10$DpgdUcQpZwhsgkq1hfuh0OPv8ssFQF6FLKhR2t3KP2cctbWYAggB2', 'aY16ZY4OmyzjgnPcBDnWlNciICRzzqK9uwSo1f7RAYY0lAq5HZ3VVsGPDuGQ', '2021-04-25 06:24:58', '2021-04-25 06:24:58');
 

@@ -20,6 +20,8 @@ Route::get('/', 'HomeController@index')->name('home');
 Route::get('/contact', 'HomeController@contact')->name('contact');
 Route::get('/category/{slug}', 'HomeController@category')->name('category');
 Route::get('/product/{slug}', 'HomeController@product')->name('product');
+Route::get('/about', 'HomeController@about')->name('about');
+
 
 Route::get('logout', 'Auth\LoginController@logout');
 Route::resource("admin-products", "ProductController");
